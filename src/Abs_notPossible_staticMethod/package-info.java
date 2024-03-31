@@ -1,0 +1,1 @@
+package Abs_notPossible_staticMethod;
